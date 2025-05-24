@@ -7,8 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [examina](https://github.com/Sherinthanseer/Examina)
-
+- 🔭 I’m currently working on MERN
 - 🌱 I’m currently learning **javascript,css,bootstrap**
 
 - 💬 Ask me about **django,python**
